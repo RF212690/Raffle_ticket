@@ -61,7 +61,6 @@ public class Main {
         do {
             boolean purchased = false;
             boolean winner = false;
-            boolean someone=false;
             String userNum = "";
             try {
                 while (userNum.length() < 1) {
